@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Программирование\INFORMATIKA\lab3\lab3\Source.cpp(126,19): warning C4101: f_res: неиспользованная локальная переменная
+D:\Программирование\INFORMATIKA\lab3\lab3\Source.cpp(203,17): warning C4101: f: неиспользованная локальная переменная
+  lab3.vcxproj -> D:\Программирование\INFORMATIKA\lab3\x64\Debug\lab3.exe
