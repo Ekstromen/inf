@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Программирование\INFORMATIKA\lab2\lab2\Source.cpp(155,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Программирование\INFORMATIKA\lab2\lab2\Source.cpp(158,11): warning C4477: "printf": в строке форматирования "%23f" требуется аргумент типа "double", но вариативный аргумент "2" имеет тип "int"
+D:\Программирование\INFORMATIKA\lab2\lab2\Source.cpp(177,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Программирование\INFORMATIKA\lab2\lab2\Source.cpp(187,3): warning C4551: в вызове функции отсутствует список аргументов
+  lab2.vcxproj -> D:\Программирование\INFORMATIKA\lab2\x64\Debug\lab2.exe
