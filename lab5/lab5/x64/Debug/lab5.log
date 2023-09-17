@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Программирование\INFORMATIKA\lab5\lab5\Source.cpp(87,9): warning C4101: i: неиспользованная локальная переменная
+  lab5.vcxproj -> D:\Программирование\INFORMATIKA\lab5\x64\Debug\lab5.exe
